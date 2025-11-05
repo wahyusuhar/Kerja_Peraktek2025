@@ -1,6 +1,9 @@
 <p align="center">
-    <a href="https://github.com/sandinur157" target="_blank"><img src="https://raw.githubusercontent.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/main/public/img/logo.png" width="120"></a>
+  <a href="https://github.com/wahyusuhar" target="_blank">
+    <img src="https://raw.githubusercontent.com/wahyusuhar/Kerja_Peraktek2025/main/public/img/logo123.png" width="120">
+  </a>
 </p>
+
 
 ## Tentang Aplikasi
 
@@ -29,7 +32,7 @@ Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola 
   - Identitas
   - Upload Desain Kartu Member
   - Setting Diskon Member
-- User (Administrator, Kasir)
+- User (Admin, Kasir)
 - Grafik ChartJS pada Dashboard
 
 ## Instalasi
@@ -39,7 +42,7 @@ git clone https://github.com/wahyusuhar/Kerja_Peraktek2025.git
 ```
 
 ### Download ZIP
-[Link](https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/archive/refs/heads/main.zip)
+[Link](https://github.com/wahyusuhar/Kerja_Peraktek2025?tab=readme-ov-file)
 
 ### Setup Aplikasi
 Jalankan perintah 
@@ -88,11 +91,4 @@ Menjalankan aplikasi
 php artisan serve
 ```
 
-## Link Tutorial
 
-- [Youtube](https://www.youtube.com/playlist?list=PLaN75JfoGz0Okf9f_7GbGM5IFaLXWx-_C)
-- [W2Learn](https://www.w2learn.com)
-
-## License
-
-[MIT license](https://opensource.org/licenses/MIT)
