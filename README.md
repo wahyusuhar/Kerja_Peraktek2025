@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/wahyusuhar" target="_blank">
-    <img src="https://raw.githubusercontent.com/wahyusuhar/Kerja_Peraktek2025/main/public/img/logo123.png" width="120">
+    <img src="https://raw.githubusercontent.com/wahyusuhar/Kerja_Peraktek2025/main/public/img/logo123.png" width="160">
   </a>
 </p>
 
